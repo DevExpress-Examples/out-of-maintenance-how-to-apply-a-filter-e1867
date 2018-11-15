@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/ASPxPivotGrid_ApplyFilter/Default.aspx) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_ApplyFilter/Default.aspx.vb))
+* [Default.aspx.cs](./CS/ASPxPivotGrid_ApplyFilter/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_ApplyFilter/Default.aspx.vb))
+<!-- default file list end -->
 # How to Apply a Filter
 
 
