@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="true"
 	  CodeBehind="Default.aspx.vb" Inherits="ApplyFilter._Default" %>
 
-<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v22.1, Version=22.1.1.0,
+<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v22.1, Version=22.1.2.0,
 	Culture=neutral, PublicKeyToken=b88d1754d700e49a"
 	Namespace="DevExpress.Web.ASPxPivotGrid"
 	TagPrefix="dx" %>
